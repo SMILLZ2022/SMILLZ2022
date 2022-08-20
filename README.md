@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SMILLZ2022
 - 👀 I’m interested in coding towards a degree in Computer Science
-- 🌱 I’m currently learning online and hope to enroll into university in September for Bachelor of Science, Computing and Information Systems
-- 💞️ I’m looking to collaborate on small projects to increase my proficiency in coding
+- 🌱 Currently enrolled in Athabasca University studying towards a Bachelor of Science in Computing and Information Systems
+- 💞️ I’m looking to collaborate on small projects to increase my proficiency in coding programs such as Python, C+, C++, Java Script etc.
 - 📫 How to reach me (shawnj.miller@gmail.com)
 
 <!---
